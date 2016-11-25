@@ -5,7 +5,6 @@ private int lenght;
 private int width;
 
 public Rectangle(int lenght, int width) {
-	super();
 	this.lenght = lenght;
 	this.width = width;
 }
